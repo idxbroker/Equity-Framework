@@ -1,0 +1,48 @@
+/**
+ * Theme Name: Equity
+ * Author: IDX, LLC
+ * Author URI: https://idxbroker.com/
+ * Description: Real Estate theme framework
+ * Version: 1.7.13
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: equity
+ * Domain Path: /languages/
+ * Tags: red, white, gray, responsive-layout, left-sidebar, right-sidebar, custom-menu, editor-style, featured-images, microformats, translation-ready
+ */
+
+// style.css.scss
+// ------------------------------------------------------------------------- */
+
+/* =Defaults (Foundation Functions and Variables)
+------------------------------------------------------------------------- */
+@import "equity_settings";
+
+/* =Buttons (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/buttons";
+
+/* =Navigation (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/top-bar";
+
+/* =Typography (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/type";
+
+/* =Pagination (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/pagination";
+
+// Partials
+@import "partials/global";
+@import "partials/general";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/sidebar";
+@import "partials/post";
+@import "partials/comments";
+@import "partials/widgets";
+@import "partials/home";
+@import "partials/shortcodes";
+@import "partials/idx";
