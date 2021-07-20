@@ -1,0 +1,124 @@
+/* =Equity Widgets 
+------------------------------------------------------------------------- */
+
+/* =Custom Menu with Icon and Description
+------------------------------------------------------------------------- */
+.widget_nav_menu_desc ul {
+	list-style-type: none;
+	margin: 0;
+}
+.widget_nav_menu_desc ul li {
+	list-style-type: none;
+	line-height: 1;
+	margin: 0 0 1.25rem;
+}
+.widget_nav_menu_desc ul li:before {
+	content: "";
+}
+.widget_nav_menu_desc i {
+	font-size: rem-calc(24);
+	vertical-align: top;
+	margin: 0 0.5rem 0.5rem 0;
+}
+.widget_nav_menu_desc .link-text {
+	font-size: rem-calc(20);
+	display: inline-block;
+}
+.widget_nav_menu_desc .link-text .link-title {
+	display: block;
+	margin: 0 0 0.325rem;
+}
+.widget_nav_menu_desc .link-text p.description {
+	font-size: rem-calc(14);
+	margin: 0;
+}
+
+
+/* =Featured Page/Posts
+------------------------------------------------------------------------- */
+.featured-page,
+.featured-post {
+
+}
+.featured-page figure {
+	margin: 0;
+}
+.featured-page header,
+.featured-post header {
+	margin: 0 0 0.25rem;
+}
+.featured-page h2,
+.featured-post h2 {
+	font-size: rem-calc(20);
+}
+.featured-page p.entry-meta,
+.featured-post p.entry-meta {
+	font-size: rem-calc(12);
+	margin: 0 0 0.325rem;
+}
+
+
+/* =Featured Post Carousel
+------------------------------------------------------------------------- */
+.equity-post-carousel {
+
+}
+.equity-post-carousel .owl-item .page-wrap,
+.equity-post-carousel .owl-item .post-wrap {
+	margin: 0 10px;
+}
+.equity-post-carousel .owl-nav {
+	text-align: center;
+	color: scale-color($body-font-color, $lightness: 14%);
+}
+.equity-post-carousel .owl-nav i {
+	font-size: rem-calc(22);
+	display: block;
+}
+.equity-post-carousel .owl-nav span {
+	text-transform: uppercase;
+	font-size: rem-calc(11);
+}
+.equity-post-carousel .owl-nav button.owl-prev {
+	float: left;
+}
+.equity-post-carousel .owl-nav button.owl-next {
+	float: right;
+}
+
+
+/* =Listing Scroller (WP Listings)
+------------------------------------------------------------------------- */
+.listings-scroller {
+
+}
+.listings-scroller .owl-item .listing {
+	margin: 0 10px;
+}
+.listings-scroller .owl-controls {
+	text-align: center;
+}
+.listings-scroller .owl-controls i {
+	font-size: rem-calc(22);
+	display: block;
+}
+.listings-scroller .owl-controls span {
+	text-transform: uppercase;
+	font-size: rem-calc(11);
+}
+.listings-scroller .owl-controls .owl-prev {
+	float: left;
+}
+.listings-scroller .owl-controls .owl-next {
+	float: right;
+}
+
+/* =Default Widgets 
+------------------------------------------------------------------------- */
+table#wp-calendar {
+	width: 100%;
+}
+
+.sidebar .widget_nav_menu .label {
+	background: none;
+}

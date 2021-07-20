@@ -1,0 +1,18 @@
+/* =Sidebar
+------------------------------------------------------------------------- */
+.sidebar-primary .widget {
+	background: #efefef;
+	padding: 1.25rem;
+	margin: 0 0 2rem;
+}
+.sidebar-primary,
+.sidebar-primary p,
+.sidebar-primary ul,
+.sidebar-primary ol,
+.sidebar-primary dl {
+	font-size: rem-calc(14);
+}
+.sidebar-primary h4 {
+	font-weight: $font-weight-bold;
+	margin: 0 0 0.825rem;
+}

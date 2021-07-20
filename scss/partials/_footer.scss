@@ -1,0 +1,70 @@
+/* =Footer
+------------------------------------------------------------------------- */
+.footer-widgets {
+	background: $secondary-color;
+	color: $body-font-color-secondary;
+	padding: 2em 0;
+}
+div.footer-widgets[class*="footer-widgets-"] {
+	margin-bottom: 15px;
+}
+.footer-widgets p,
+.footer-widgets li {
+	font-size: rem-calc(15);
+}
+.footer-widgets a,
+.footer-widgets .widget-title {
+	color: $body-font-color-secondary;
+}
+.footer-widgets .widget-title { 
+	font-size: rem-calc(20);
+	font-weight: $font-weight-bold;
+	margin-bottom: 1rem;
+}
+.footer-widgets a {
+	color: scale-color($body-font-color-secondary, $lightness: -14%);
+	@include single-transition(color);
+}
+.footer-widgets a:hover {
+	color: $body-font-color-secondary;
+}
+.footer-widgets label,
+.footer-widgets abbr {
+	color: scale-color($body-font-color-secondary, $lightness: -14%);
+}
+
+footer.site-footer {
+	padding: 10px 0;
+	text-align: center;
+}
+footer.site-footer, 
+footer.site-footer p,
+footer.site-footer a {
+	color: $body-font-color;
+	font-size: rem-calc(11);
+}
+footer.site-footer a:hover {
+	color: $primary-color;
+	@include single-transition(color);
+}
+footer.site-footer p {
+	margin: 0;
+}
+footer.site-footer .footer-left,
+footer.site-footer .footer-right {
+	margin-bottom: .825rem;
+}
+footer.site-footer i {
+	width: 60px;
+	height: 60px;
+	color: #ccc;
+	vertical-align: baseline;
+}
+@media #{$large-up} {
+	footer.site-footer .footer-left {
+		text-align: left;
+	}
+	footer.site-footer .footer-right {
+		text-align: right;
+	}
+}

@@ -1,0 +1,150 @@
+/* =Shortcodes
+------------------------------------------------------------ */
+.agent-social-icons a {
+	display: inline-block;
+	font-size: 20px;
+	margin-right: 10px;
+}
+.agent-phone-wrap,
+.agent-email-wrap,
+.agent-address {
+}
+.agent-phone-wrap i,
+.agent-email-wrap i,
+.agent-address i {
+	margin-right: 5px;
+	color: scale-color($body-font-color, $lightness: 30%);
+}
+
+
+/* =Icon box shortcodes
+------------------------------------------------------------ */
+.ae-iconbox {
+	position: relative;
+	margin: 10px 0 10px;
+}
+
+.ae-iconbox i[class*="fa-"],
+.ae-iconbox a i[class*="fa-"] {
+	color: $primary-color;
+	margin-bottom: 10px;
+}
+
+.ae-iconbox h4,
+.ae-iconbox h4 a {
+	margin: 0 0 10px;
+	text-decoration: none;
+}
+
+.ae-iconbox h4 a:hover {
+	color: $header-font-color;
+}
+
+.ae-iconbox p {
+	line-height: 22px;
+}
+
+.ae-iconbox i,
+.ae-iconbox a {
+	-webkit-transition:all 300ms linear;
+	-moz-transition:all 300ms linear;
+	-o-transition:all 300ms linear;
+	-ms-transition:all 300ms linear;
+	transition: all 300ms linear;
+}
+
+.ae-iconbox.type-1 {
+	padding-left: 100px;
+}
+
+.ae-iconbox.type-1 i {
+	position: absolute;
+	font-size: 73px;
+	top: 0;
+	left: 0;
+}
+
+.ae-iconbox.type-2 {
+	padding-left: 105px;
+}
+
+.ae-iconbox.type-2 .icon {
+	text-align: center;
+}
+
+.ae-iconbox.type-2 i {
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 38px;
+	line-height: 80px;
+	width: 80px;
+	height: 80px;
+	background: $primary-color;
+	border-radius: 80px;
+}
+
+.ae-iconbox.type-2 i[class*="fa-"],
+.ae-iconbox.type-2 a i[class*="fa-"] {
+	color: #fff;
+}
+
+.ae-iconbox.type-2:hover i[class*="fa-"],
+.ae-iconbox.type-2:hover a i[class*="fa-"] {
+	color: $primary-color;
+	background: #fff;
+}
+
+.ae-iconbox.type-3 {
+	text-align: center;
+}
+
+.ae-iconbox.type-3 i {
+	font-size: 40px;
+	line-height: 90px;
+	width: 90px;
+	height: 90px;
+	background: $primary-color;
+	border-radius: 90px;
+}
+
+.ae-iconbox.type-3 i[class*="fa-"],
+.ae-iconbox.type-3 a i[class*="fa-"] {
+	color: #fff;
+}
+
+.ae-iconbox.type-3:hover i[class*="fa-"],
+.ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: $primary-color;
+	background: #fff;
+}
+
+.ae-iconbox.type-4 {
+	text-align: center;
+}
+
+.ae-iconbox.type-4 i {
+	font-size: 73px;
+	line-height: 90px;
+	width: 90px;
+	height: 90px;
+}
+
+.ae-iconbox.type-4:hover i {
+	font-size: 78px;
+}
+
+.ae-iconbox.type-5 {
+	padding-left: 50px;
+}
+
+.ae-iconbox.type-5 i {
+	position: absolute;
+	width: 30px;
+	font-size: 30px;
+	top: 5px;
+	left: 0;
+}
+
+/* =Testimonials
+------------------------------------------------------------ */

@@ -1,0 +1,83 @@
+/* Header
+------------------------------------------------------------------------- */
+.top-header {
+	background: $secondary-color;
+	color: $body-font-color-secondary;
+	font-size: rem-calc(12);
+	line-height: rem-calc(20);
+}
+.top-header ul {
+	font-size: rem-calc(12);
+	line-height: rem-calc(20);
+	margin: 0;
+}
+.top-header .widget-area {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.top-header-right {
+	text-align: right;
+}
+.top-header a {
+	color: $body-font-color-secondary;
+	@include single-transition(color);
+}
+.top-header a:hover {
+	color: scale-color($body-font-color-secondary, $lightness: -14%);
+}
+.top-header .agent-social-icons a {
+	font-size: rem-calc(13);
+	margin: 0 0 0 8px;
+}
+.top-header-right .widget_nav_menu ul {
+	float: right;
+}
+.top-header .widget_nav_menu ul li {
+	list-style-type: none;
+	float: left;
+}
+.top-header .widget_nav_menu ul li a {
+	padding: 0 5px;
+}
+
+@media #{$small-only} {
+	.top-header-left,
+	.top-header-right {
+		text-align: center;
+	}
+}
+
+header.site-header {
+	padding: 1rem 0;
+	color: #666;
+	text-align: center;
+}
+header.site-header .site-title {
+	font-size: rem-calc(30);
+	text-transform: uppercase;
+	letter-spacing: 8px;
+	line-height: 1;
+	margin: 0 0 5px;
+}
+header.site-header .site-description {
+	font-size: rem-calc(14);
+	margin: 0;
+	line-height: 1.6;
+}
+header.site-header .widget-area {
+	font-size: rem-calc(16);
+	margin-top: 10px;
+}
+
+@media #{$large-up} {
+	header.site-header {
+		padding: 2rem 0;
+	}
+	header.site-header .title-area {
+		text-align: left;
+	}
+	header.site-header .widget-area {
+		text-align: right;
+		margin: 0;
+	}
+}

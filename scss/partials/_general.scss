@@ -1,0 +1,176 @@
+/* =Structure
+------------------------------------------------------------------------- */
+.structural-wrap {
+	width: 100%;
+	max-width: $row-width;
+}
+.content-sidebar-wrap {
+	padding: 1.5rem 0;
+}
+
+
+/* =Alignments
+------------------------------------------------------------------------- */
+.alignleft,
+.content figure.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+.alignright,
+.content figure.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+.aligncenter,
+.content figure.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}
+
+
+/* =Image Galleries
+------------------------------------------------------------------------- */
+.gallery {
+	margin-bottom: 1.5rem;
+}
+.gallery figure {
+	margin: 0 0 1rem;
+	padding: 0 0.275rem;
+}
+.gallery-item {
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	width: 100%;
+}
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+.gallery-caption {}
+
+
+/* =Image Captions
+------------------------------------------------------------------------- */
+.wp-caption {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin: 0 auto;
+}
+.wp-caption-text {
+	font-size: rem-calc(12);
+	line-height: 1.2;
+	text-align: center;
+	margin: 0.8075rem 0;
+}
+.wp-caption .wp-caption-text {
+	margin: 0.8075rem 0;
+}
+
+
+/* =Headings
+------------------------------------------------------------------------- */
+h3,
+h5 {
+	font-weight: $font-weight-bold;
+}
+
+
+/* =Communities page template
+------------------------------------------------------------------------- */
+.page-template-page_communities-php .masonry-item {
+	width: 320px;
+}
+.page-template-page_communities-php .masonry-item h2 {
+	font-size: rem-calc(28);
+}
+.page-template-page_communities-php .masonry-item img {
+	margin-bottom: 10px;
+}
+
+
+/* =Buttons
+------------------------------------------------------------------------- */
+input[type="button"],
+input[type="submit"] {
+	@include button;
+}
+
+
+/* =Accessibility
+------------------------------------------------------------------------- */
+/* Text meant only for screen readers */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar */
+}
+
+
+/* =Gravity Forms
+------------------------------------------------------------------------- */
+.gform_wrapper select[multiple=multiple] {
+	background-image: none;
+	height: auto;
+}
+.gform_wrapper .gfield_radio li input[type=radio] {
+	margin: 0 0 0.2rem 0.1rem;
+}
+
+
+/* =Admin bar fix (due to position: relative; on body)
+------------------------------------------------------------------------- */
+@media screen and (max-width: 600px) {
+	#wpadminbar {
+		top: -46px;
+	}
+}

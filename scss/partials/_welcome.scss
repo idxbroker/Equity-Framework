@@ -1,0 +1,39 @@
+.welcome {
+	padding: 4rem 0 0;
+}
+.welcome h2,
+.welcome h3 {
+	padding: 0 20% 40px;
+	font-size: rem-calc(60);
+	font-weight: $font-weight-normal;
+	letter-spacing: -1px;
+}
+.welcome h2,
+.welcome h3,
+.welcome h5,
+.welcome i {
+	text-align: center;
+}
+.welcome h5 {
+	font-size: rem-calc(30);
+	margin: 1.8rem auto;
+}
+.welcome i {
+	display: block;
+	font-size: rem-calc(100);
+	color: #fff;
+	background: #ccc;
+	width: 190px;
+	height: 190px;
+	padding: 40px;
+	margin: 0 auto;
+	@include radius(50%);
+}
+.welcome ul {
+	margin: 0 0 4rem;
+}
+.welcome li {
+	text-align: center;
+	font-size: rem-calc(20);
+	list-style-type: none;
+}
