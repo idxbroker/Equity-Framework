@@ -1,0 +1,3665 @@
+# <!=Copyright (C) 2019 IDX, LLC
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Equity 1.7.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-04-06 20:06:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: 404.php:27
+msgid "Page not found, error 404"
+msgstr ""
+
+#: 404.php:30
+msgid ""
+"This content no longer exists. Visit the site's <a href=\"%s\">homepage</a> "
+"or try a search using the form below."
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Please enter the password to view comments."
+msgstr ""
+
+#: front-page.php:65
+msgid "The most advanced WordPress theme framework for real estate."
+msgstr ""
+
+#: front-page.php:66
+msgid "Purchase"
+msgstr ""
+
+#: front-page.php:70
+msgid "Phone"
+msgstr ""
+
+#: front-page.php:74
+msgid "Tablet"
+msgstr ""
+
+#: front-page.php:78
+msgid "Desktop"
+msgstr ""
+
+#: front-page.php:109
+msgid "Get Started"
+msgstr ""
+
+#: front-page.php:112
+msgid "Configure"
+msgstr ""
+
+#: front-page.php:114
+msgid "Configure and Customize"
+msgstr ""
+
+#: front-page.php:115
+msgid "Setup widgets"
+msgstr ""
+
+#: front-page.php:116
+msgid "Create menus"
+msgstr ""
+
+#: front-page.php:117
+msgid "Create a new %1$s or %2$s"
+msgstr ""
+
+#: front-page.php:117
+msgid "Post"
+msgstr ""
+
+#: front-page.php:117 lib/widgets/featured-page-widget.php:208
+msgid "Page"
+msgstr ""
+
+#: front-page.php:123
+msgid "Add IDX"
+msgstr ""
+
+#: front-page.php:125
+msgid "Sign up for IDX Broker"
+msgstr ""
+
+#: front-page.php:132
+msgid "Need Help?"
+msgstr ""
+
+#: front-page.php:134
+msgid "Read the setup guide"
+msgstr ""
+
+#: front-page.php:136
+msgid "More questions? Post to support forum"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:46 lib/admin/cpt-archive-settings.php:47
+#: lib/admin/cpt-archive-settings.php:119
+#: lib/admin/cpt-archive-settings.php:189
+#: lib/admin/cpt-archive-settings.php:196 lib/admin/term-meta.php:45
+msgid "Archive Settings"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:55
+msgid "Archive"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:120
+#: lib/admin/cpt-archive-settings.php:202
+#: lib/admin/cpt-archive-settings.php:215 lib/admin/inpost-metaboxes.php:107
+#: lib/admin/term-meta.php:98
+msgid "Layout Settings"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:138
+msgid "View the <a href=\"%s\">%s archive</a>."
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:140 lib/admin/term-meta.php:49
+msgid "Archive Headline"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:142 lib/admin/term-meta.php:52
+msgid "Leave empty if you do not want to display a headline."
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:144 lib/admin/term-meta.php:56
+msgid "Archive Intro Text"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:146 lib/admin/term-meta.php:59
+msgid "Leave empty if you do not want to display any intro text."
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:167 lib/admin/inpost-metaboxes.php:128
+#: lib/admin/term-meta.php:107
+msgid "Default Layout set in <a href=\"%s\">Customize</a>"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:174 lib/admin/inpost-metaboxes.php:135
+msgid "Custom Body Class"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:190
+msgid "The Archive Headline sets the title seen on the archive page"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:191
+msgid ""
+"The Archive Intro Text sets the text before the archive entries to "
+"introduce the content to the viewer."
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:203
+msgid ""
+"This lets you select the layout for the archive page. On most of the child "
+"themes you'll see these options:"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:205 lib/admin/theme-settings.php:243
+msgid "Content Sidebar"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:206 lib/admin/theme-settings.php:244
+msgid "Sidebar Content"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:207 lib/admin/theme-settings.php:245
+#: lib/functions/layout.php:45
+msgid "Full Width Content"
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:209
+msgid "These options can be extended or limited by the child theme."
+msgstr ""
+
+#: lib/admin/cpt-archive-settings.php:210
+msgid ""
+"The Custom Body Class adds a class to the body tag in the HTML to allow CSS "
+"modification exclusively for this post type's archive page."
+msgstr ""
+
+#: lib/admin/custom-css.php:46 lib/admin/custom-css.php:70
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/admin/custom-css.php:61
+msgid ""
+"/*\n"
+"Welcome to the Equity Framework Custom CSS editor!\n"
+" \n"
+"Please add all your custom CSS here and avoid modifying the core theme "
+"files, since that'll make upgrading the theme problematic. Your custom CSS "
+"will be loaded after the theme's stylesheets, which means that your rules "
+"will take precedence. Just add your CSS here for what you want to change, "
+"you don't need to copy all the theme's style.css content. (p.s. you can "
+"delete this text :)\n"
+"*/"
+msgstr ""
+
+#: lib/admin/custom-css.php:71
+msgid "Custom CSS updated."
+msgstr ""
+
+#: lib/admin/custom-css.php:82
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:59
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:63
+msgid "Save Changes"
+msgstr ""
+
+#: lib/admin/customizer.php:29
+msgid "When extending EQUITY_Customizer_Base, you must create a register method."
+msgstr ""
+
+#: lib/admin/customizer.php:272
+msgid "Logo Display Type"
+msgstr ""
+
+#: lib/admin/customizer.php:278
+msgid "Custom Image"
+msgstr ""
+
+#: lib/admin/customizer.php:279
+msgid "Use site title as logo"
+msgstr ""
+
+#: lib/admin/customizer.php:290
+msgid "Custom Logo"
+msgstr ""
+
+#: lib/admin/customizer.php:291
+msgid ""
+"Upload an image in <strong>.PNG</strong>, <strong>.JPG</strong> or "
+"<strong>.GIF</strong> format. <p style=\"font-style: normal;\">Optimal "
+"size: 400x80</p>"
+msgstr ""
+
+#: lib/admin/customizer.php:314
+msgid "Preset Colors"
+msgstr ""
+
+#: lib/admin/customizer.php:330
+msgid "Select Color Style"
+msgstr ""
+
+#: lib/admin/customizer.php:335 lib/classes/cmb2/includes/CMB2_JS.php:144
+#: lib/classes/metaboxes/init.php:259
+msgid "Default"
+msgstr ""
+
+#: lib/admin/customizer.php:348
+msgid "Site Layout"
+msgstr ""
+
+#: lib/admin/customizer.php:364
+msgid "Select Default Layout"
+msgstr ""
+
+#: lib/admin/customizer.php:380
+msgid "Footer Widgets"
+msgstr ""
+
+#: lib/admin/customizer.php:396
+msgid "Select Number of Footer Widgets"
+msgstr ""
+
+#: lib/admin/customizer.php:401
+msgid "Zero"
+msgstr ""
+
+#: lib/admin/customizer.php:402
+msgid "One"
+msgstr ""
+
+#: lib/admin/customizer.php:403
+msgid "Two"
+msgstr ""
+
+#: lib/admin/customizer.php:404
+msgid "Three"
+msgstr ""
+
+#: lib/admin/customizer.php:405
+msgid "Four"
+msgstr ""
+
+#: lib/admin/customizer.php:467 lib/admin/theme-settings.php:260
+#: lib/admin/theme-settings.php:313 lib/admin/theme-settings.php:377
+msgid "Comments and Trackbacks"
+msgstr ""
+
+#: lib/admin/customizer.php:473
+msgid "Enable Comments on Posts?"
+msgstr ""
+
+#: lib/admin/customizer.php:474
+msgid "Enable Comments on Pages?"
+msgstr ""
+
+#: lib/admin/customizer.php:475
+msgid "Enable Trackbacks on Posts?"
+msgstr ""
+
+#: lib/admin/customizer.php:476
+msgid "Enable Trackbacks on Pages?"
+msgstr ""
+
+#: lib/admin/customizer.php:508 lib/admin/theme-settings.php:265
+#: lib/admin/theme-settings.php:318 lib/admin/theme-settings.php:379
+msgid "Content Archives"
+msgstr ""
+
+#: lib/admin/customizer.php:509 lib/admin/theme-settings.php:681
+msgid ""
+"These options will affect any blog listings page, including archive, "
+"author, blog, category, search, and tag pages."
+msgstr ""
+
+#: lib/admin/customizer.php:540
+msgid "Select one of the following"
+msgstr ""
+
+#: lib/admin/customizer.php:545 lib/admin/theme-settings.php:626
+msgid "Display post content"
+msgstr ""
+
+#: lib/admin/customizer.php:546 lib/admin/theme-settings.php:627
+msgid "Display post excerpts"
+msgstr ""
+
+#: lib/admin/customizer.php:554
+msgid "Limit content to how many characters? (0 for no limit)"
+msgstr ""
+
+#: lib/admin/customizer.php:564
+msgid "Display the featured image?"
+msgstr ""
+
+#: lib/admin/customizer.php:574
+msgid "Featured image size"
+msgstr ""
+
+#: lib/admin/customizer.php:585
+msgid "Featured image alignment"
+msgstr ""
+
+#: lib/admin/customizer.php:590 lib/admin/theme-settings.php:666
+msgid "- None -"
+msgstr ""
+
+#: lib/admin/customizer.php:591 lib/admin/theme-settings.php:667
+#: lib/widgets/featured-page-widget.php:235
+#: lib/widgets/featured-post-widget.php:357
+#: lib/widgets/featured-post-widget.php:387
+msgid "Left"
+msgstr ""
+
+#: lib/admin/customizer.php:592 lib/admin/theme-settings.php:668
+#: lib/widgets/featured-page-widget.php:236
+#: lib/widgets/featured-post-widget.php:358
+#: lib/widgets/featured-post-widget.php:388
+msgid "Right"
+msgstr ""
+
+#: lib/admin/customizer.php:600
+msgid "Post Navigation Type"
+msgstr ""
+
+#: lib/admin/customizer.php:605 lib/admin/theme-settings.php:676
+msgid "Previous / Next"
+msgstr ""
+
+#: lib/admin/customizer.php:606 lib/admin/theme-settings.php:677
+msgid "Numeric"
+msgstr ""
+
+#: lib/admin/customizer.php:619
+msgid "Fonts"
+msgstr ""
+
+#: lib/admin/customizer.php:650
+msgid "Reset Customizations"
+msgstr ""
+
+#: lib/admin/customizer.php:666
+msgid "Reset Customizations?"
+msgstr ""
+
+#: lib/admin/customizer.php:667
+msgid ""
+"To remove customizations, select the checkbox and save. <br /><em>(Excludes "
+"content archives, comments, and site layout options)</em>"
+msgstr ""
+
+#: lib/admin/footer-settings.php:53
+msgid "Footer Content"
+msgstr ""
+
+#: lib/admin/footer-settings.php:54
+msgid "Footer Settings"
+msgstr ""
+
+#: lib/admin/footer-settings.php:118
+msgid "Equity Footer"
+msgstr ""
+
+#: lib/admin/footer-settings.php:119
+msgid ""
+"<p>Use the editors below to customize the content of the footer left, "
+"footer right, and disclaimer.</p><hr>\n"
+"\t\t\t\t\t\t\t\t<h2>Equity footer shortcodes:</h2>\n"
+"\t\t\t\t\t\t\t\t\t<ul>\n"
+"\t\t\t\t\t\t\t\t\t\t<h3>IDX Sitemap</h3>\n"
+"\t\t\t\t\t\t\t\t\t\t<strong style=\"color: \">[idx_sitemap]</strong>\n"
+"\t\t\t\t\t\t\t\t\t\t<p>No additional parameters.</p>\n"
+"\t\t\t\t\t\t\t\t\t\t<h3>Footer Login/Log Out link</h3>\n"
+"\t\t\t\t\t\t\t\t\t\t<strong>[footer_loginout]</strong>\n"
+"\t\t\t\t\t\t\t\t\t\t<p>Text link to log in or logged out based on current "
+"logged in status.</p>\n"
+"\t\t\t\t\t\t\t\t\t\t<p>Supported shortcode parameters are:\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li>after (output after link, default is none)</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li>before (output before link, default is none)</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li>redirect (path to redirect to on login, default "
+"is none)</li>\n"
+"\t\t\t\t\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t\t\t\t\t<h3>Footer Copyright</h3>\n"
+"\t\t\t\t\t\t\t\t\t\t<strong>[footer_copyright]</strong>\n"
+"\t\t\t\t\t\t\t\t\t\t<p>Displays copyright info with symbol and current "
+"year.</p>\n"
+"\t\t\t\t\t\t\t\t\t\t<p>\n"
+"\t\t\t\t\t\t\t\t\t\tSupported shortcode attributes are:\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li>after (output after notice, default is none)</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li>before (output before notice, default is "
+"none)</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li>copyright (copyright notice, default is copyright "
+"character &copy; )</li>\n"
+"\t\t\t\t\t\t\t\t\t\t\t<li>first (year copyright first applies, default is "
+"none and displays current year)</li>\n"
+"\t\t\t\t\t\t\t\t\t\t</p>\n"
+"\t\t\t\t\t\t\t\t\t</ul>\n"
+"\t\t\t\t\t\t\t\t</p>"
+msgstr ""
+
+#: lib/admin/footer-settings.php:188
+msgid "Disclaimer"
+msgstr ""
+
+#: lib/admin/footer-settings.php:189
+msgid "Text or shortcodes to display in Footer Disclaimer text area"
+msgstr ""
+
+#: lib/admin/footer-settings.php:192
+msgid ""
+"Optional Disclaimer - This can be edited under Equity > Footer in the "
+"Dashboard or deleted altogether. <div class=\"realty-logos\">[properticon "
+"icon=\"properticons-logo-eho\" size=\"67\"][properticon "
+"icon=\"properticons-logo-realtor\" size=\"70\"]</div>"
+msgstr ""
+
+#: lib/admin/footer-settings.php:202
+msgid "Footer Left"
+msgstr ""
+
+#: lib/admin/footer-settings.php:203
+msgid "Text or shortcodes to display in Footer Left text area"
+msgstr ""
+
+#: lib/admin/footer-settings.php:216
+msgid "Footer Right"
+msgstr ""
+
+#: lib/admin/footer-settings.php:217
+msgid "Text or shortcodes to display in Footer Right text area"
+msgstr ""
+
+#: lib/admin/footer-settings.php:244
+msgid "Footer settings updated."
+msgstr ""
+
+#: lib/admin/inpost-metaboxes.php:34
+msgid "Scripts"
+msgstr ""
+
+#: lib/admin/inpost-metaboxes.php:51
+msgid "Page-specific Scripts"
+msgstr ""
+
+#: lib/admin/inpost-metaboxes.php:53
+msgid ""
+"Suitable for custom tracking, conversion or other page-specific script. "
+"Must include %s tags."
+msgstr ""
+
+#: lib/admin/inpost-metaboxes.php:138
+msgid "Custom Post Class"
+msgstr ""
+
+#: lib/admin/menu.php:107 lib/admin/theme-settings.php:418
+msgid "Theme Setup Guide"
+msgstr ""
+
+#: lib/admin/term-meta.php:102
+msgid "Choose Layout"
+msgstr ""
+
+#: lib/admin/theme-settings.php:53 lib/admin/theme-settings.php:54
+#: lib/admin/theme-settings.php:221 lib/admin/theme-settings.php:288
+msgid "Theme Settings"
+msgstr ""
+
+#: lib/admin/theme-settings.php:63 lib/classes/admin.php:104
+msgid "Save Settings"
+msgstr ""
+
+#: lib/admin/theme-settings.php:64 lib/classes/admin.php:105
+msgid "Reset Settings"
+msgstr ""
+
+#: lib/admin/theme-settings.php:65 lib/classes/admin.php:106
+msgid "Settings saved."
+msgstr ""
+
+#: lib/admin/theme-settings.php:66 lib/classes/admin.php:107
+msgid "Settings reset."
+msgstr ""
+
+#: lib/admin/theme-settings.php:67 lib/classes/admin.php:108
+msgid "Error saving settings."
+msgstr ""
+
+#: lib/admin/theme-settings.php:222
+msgid ""
+"Your Theme Settings provides control over how the theme works. You will be "
+"able to control a lot of common and even advanced features from this menu. "
+"Some child themes may add additional menu items to this list, including the "
+"ability to select different color schemes or set theme specific features "
+"such as a slider. Each of the boxes can be collapsed by clicking the box "
+"header and expanded by doing the same. They can also be dragged into any "
+"order you desire or even hidden by clicking on \"Screen Options\" in the "
+"top right of the screen and \"unchecking\" the boxes you do not want to "
+"see. Below you'll find the items common to every child theme..."
+msgstr ""
+
+#: lib/admin/theme-settings.php:225
+msgid "IDX Account"
+msgstr ""
+
+#: lib/admin/theme-settings.php:226
+msgid ""
+"Here you can enter the domain for your IDX account, in the case of using a "
+"developement environment or if the WordPress site URL does not match."
+msgstr ""
+
+#: lib/admin/theme-settings.php:229 lib/admin/theme-settings.php:298
+#: lib/admin/theme-settings.php:369
+msgid "Agent Info"
+msgstr ""
+
+#: lib/admin/theme-settings.php:230
+msgid ""
+"Here you can enter your social media and contact info to be displayed using "
+"the theme's shortcodes."
+msgstr ""
+
+#: lib/admin/theme-settings.php:233 lib/admin/theme-settings.php:303
+#: lib/admin/theme-settings.php:371
+msgid "Custom Feeds"
+msgstr ""
+
+#: lib/admin/theme-settings.php:234
+msgid ""
+"If you use Feedburner to handle your rss feed(s) you can use this function "
+"to set your site's native feed to redirect to your Feedburner feed."
+msgstr ""
+
+#: lib/admin/theme-settings.php:235
+msgid ""
+"By filling in the feed links calling for the main site feed, it will "
+"display as a link to Feedburner."
+msgstr ""
+
+#: lib/admin/theme-settings.php:236
+msgid ""
+"By checking the \"Redirect Feed\" box, all traffic to default feed links "
+"will be redirected to the Feedburner link instead."
+msgstr ""
+
+#: lib/admin/theme-settings.php:237
+msgid ""
+"If using IDX Broker, you can enter the URL for your XML sitemap and a link "
+"will be output to the document <head>."
+msgstr ""
+
+#: lib/admin/theme-settings.php:240 lib/admin/theme-settings.php:308
+#: lib/admin/theme-settings.php:373
+msgid "Default Layout"
+msgstr ""
+
+#: lib/admin/theme-settings.php:241
+msgid ""
+"This lets you select the default layout for your entire site. On most of "
+"the child themes you'll see these options:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:247
+msgid ""
+"These options can be extended or limited by the child theme. Additionally, "
+"many of the child themes do not allow different layouts on the home page as "
+"they have been designed for a specific home page layout."
+msgstr ""
+
+#: lib/admin/theme-settings.php:248
+msgid ""
+"This layout can also be overridden in the post/page/term layout options on "
+"each post/page/term."
+msgstr ""
+
+#: lib/admin/theme-settings.php:251
+msgid "Header"
+msgstr ""
+
+#: lib/admin/theme-settings.php:252
+msgid ""
+"The <strong>Dynamic text</strong> option will use the Site Title and Site "
+"Description from your site's settings in your header."
+msgstr ""
+
+#: lib/admin/theme-settings.php:253
+msgid ""
+"The <strong>Image logo</strong> option will use a logo image file in the "
+"header instead of the site's title and description. This setting adds a "
+".header-image class to your site, allowing you to specify the header image "
+"in your child theme's style.css. By default, the logo can be saved as "
+"logo.png and saved to the images folder of your child theme."
+msgstr ""
+
+#: lib/admin/theme-settings.php:261
+msgid ""
+"This allows a site wide decision on whether comments and trackbacks "
+"(notifications when someone links to your page) are enabled for posts and "
+"pages."
+msgstr ""
+
+#: lib/admin/theme-settings.php:262
+msgid ""
+"If you enable comments or trackbacks here, it can be disabled on an "
+"individual post or page. If you disable here, they cannot be enabled on an "
+"individual post or page."
+msgstr ""
+
+#: lib/admin/theme-settings.php:266
+msgid ""
+"In the Equity Theme Settings you may change the site wide Content Archives "
+"options to control what displays in the site's Archives."
+msgstr ""
+
+#: lib/admin/theme-settings.php:267
+msgid ""
+"Archives include any pages using the blog template, category pages, tag "
+"pages, date archive, author archives, and the latest posts if there is no "
+"custom home page."
+msgstr ""
+
+#: lib/admin/theme-settings.php:268
+msgid ""
+"The first option allows you to display the post content or the post "
+"excerpt. The Display post content setting will display the entire post "
+"including HTML code up to the <!--more--> tag if used (this is HTML for the "
+"comment tag that is not displayed in the browser)."
+msgstr ""
+
+#: lib/admin/theme-settings.php:269
+msgid ""
+"It may also be coupled with the second field \"Limit content to [___] "
+"characters\" to limit the content to a specific number of letters or "
+"spaces. This will strip any HTML, but allows for more precise and easily "
+"changed lengths than the excerpt."
+msgstr ""
+
+#: lib/admin/theme-settings.php:270
+msgid ""
+"The Display post excerpt setting will display the first 55 words of the "
+"post after also stripping any included HTML or the manual/custom excerpt "
+"added in the post edit screen."
+msgstr ""
+
+#: lib/admin/theme-settings.php:271
+msgid ""
+"The 'Include post image?' setting allows you to show a thumbnail of the "
+"first attached image or currently set featured image."
+msgstr ""
+
+#: lib/admin/theme-settings.php:272
+msgid ""
+"This option should not be used with the post content unless the content is "
+"limited to avoid duplicate images."
+msgstr ""
+
+#: lib/admin/theme-settings.php:273
+msgid ""
+"The 'Image Size' list is populated by the available image sizes defined in "
+"the theme."
+msgstr ""
+
+#: lib/admin/theme-settings.php:274
+msgid ""
+"Post Navigation Technique allows you to select one of three navigation "
+"methods."
+msgstr ""
+
+#: lib/admin/theme-settings.php:277 lib/admin/theme-settings.php:328
+msgid "Blog Page"
+msgstr ""
+
+#: lib/admin/theme-settings.php:278
+msgid ""
+"This works with the Blog Template, which is a page template that shows your "
+"latest posts. It's what people see when they land on your homepage."
+msgstr ""
+
+#: lib/admin/theme-settings.php:279
+msgid ""
+"In the General Settings you can select a specific category to display from "
+"the drop down menu, and exclude categories by ID, or even select how many "
+"posts you'd like to display on this page."
+msgstr ""
+
+#: lib/admin/theme-settings.php:280
+msgid ""
+"There are some special features of the Blog Template that allow you to "
+"specify which category to show on each page using the template, which is "
+"helpful if you have a \"News\" category (or something else) that you want "
+"to display separately."
+msgstr ""
+
+#: lib/admin/theme-settings.php:283 lib/admin/theme-settings.php:333
+#: lib/admin/theme-settings.php:384
+msgid "Header and Footer Scripts"
+msgstr ""
+
+#: lib/admin/theme-settings.php:284
+msgid ""
+"This provides you with two fields that will output to the <head></head> of "
+"your site and just before the </body>. These will appear on every page of "
+"the site and are a great way to add analytic code and other scripts. You "
+"cannot use PHP in these fields. If you need to use PHP then you should look "
+"into the Equity Simple Hooks plugin."
+msgstr ""
+
+#: lib/admin/theme-settings.php:293
+msgid "IDX Account Info"
+msgstr ""
+
+#: lib/admin/theme-settings.php:339
+msgid "For more information:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:340
+msgid "Get Support"
+msgstr ""
+
+#: lib/admin/theme-settings.php:364
+msgid "Information"
+msgstr ""
+
+#: lib/admin/theme-settings.php:367
+msgid "IDX Info"
+msgstr ""
+
+#: lib/admin/theme-settings.php:381
+msgid "Blog Page Template"
+msgstr ""
+
+#: lib/admin/theme-settings.php:407
+msgid "Equity Framework Version:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:407
+msgid "Released:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:415
+msgid "Child Theme Information"
+msgstr ""
+
+#: lib/admin/theme-settings.php:416
+msgid "Name: "
+msgstr ""
+
+#: lib/admin/theme-settings.php:417
+msgid "Version: "
+msgstr ""
+
+#: lib/admin/theme-settings.php:418
+msgid "View "
+msgstr ""
+
+#: lib/admin/theme-settings.php:437
+msgid ""
+"Your WordPress site URL will be used by default. If using a development "
+"environment or if your WordPress URL does not match your IDX account info, "
+"enter the URL in your IDX account here:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:488
+msgid "Address:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:492
+msgid "Phone:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:493 lib/admin/theme-settings.php:494
+msgid "Country Code"
+msgstr ""
+
+#: lib/admin/theme-settings.php:495 lib/admin/theme-settings.php:496
+msgid "Phone Number with Area Code"
+msgstr ""
+
+#: lib/admin/theme-settings.php:497
+msgid "For US Country code, use \"1\"."
+msgstr ""
+
+#: lib/admin/theme-settings.php:500
+msgid "Email:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:522
+msgid "Enter your custom feed URL:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:526 lib/admin/theme-settings.php:534
+msgid "Redirect Feed?"
+msgstr ""
+
+#: lib/admin/theme-settings.php:530
+msgid "Enter your custom comments feed URL:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:537
+msgid ""
+"If your custom feed(s) are not handled by Feedblitz or Feedburner, do not "
+"use the redirect options."
+msgstr ""
+
+#: lib/admin/theme-settings.php:582
+msgid "Enable Comments"
+msgstr ""
+
+#: lib/admin/theme-settings.php:584 lib/admin/theme-settings.php:593
+msgid "on posts?"
+msgstr ""
+
+#: lib/admin/theme-settings.php:587 lib/admin/theme-settings.php:596
+msgid "on pages?"
+msgstr ""
+
+#: lib/admin/theme-settings.php:591
+msgid "Enable Trackbacks"
+msgstr ""
+
+#: lib/admin/theme-settings.php:599
+msgid ""
+"Comments and Trackbacks can also be disabled on a per post/page basis when "
+"creating/editing posts/pages."
+msgstr ""
+
+#: lib/admin/theme-settings.php:620
+msgid "Select one of the following:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:638 lib/widgets/featured-page-carousel.php:219
+#: lib/widgets/featured-page-widget.php:259
+#: lib/widgets/featured-post-carousel.php:246
+#: lib/widgets/featured-post-widget.php:421
+msgid "Limit content to"
+msgstr ""
+
+#: lib/admin/theme-settings.php:640 lib/widgets/featured-page-carousel.php:221
+#: lib/widgets/featured-page-widget.php:261
+#: lib/widgets/featured-post-carousel.php:248
+#: lib/widgets/featured-post-widget.php:423
+msgid "characters"
+msgstr ""
+
+#: lib/admin/theme-settings.php:643
+msgid ""
+"Using this option will limit the text and strip all formatting from the "
+"text displayed. To use this option, choose \"Display post content\" in the "
+"select box above."
+msgstr ""
+
+#: lib/admin/theme-settings.php:648
+msgid "Include the Featured Image?"
+msgstr ""
+
+#: lib/admin/theme-settings.php:653
+msgid "Image Size:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:664
+msgid "Image Alignment:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:674
+msgid "Select Post Navigation Technique:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:700
+msgid "Enable on:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:704
+msgid "Front Page"
+msgstr ""
+
+#: lib/admin/theme-settings.php:707
+msgid "Posts Page"
+msgstr ""
+
+#: lib/admin/theme-settings.php:710
+msgid "Homepage"
+msgstr ""
+
+#: lib/admin/theme-settings.php:714
+msgid "Posts"
+msgstr ""
+
+#: lib/admin/theme-settings.php:717
+msgid "Pages"
+msgstr ""
+
+#: lib/admin/theme-settings.php:720
+msgid "Archives"
+msgstr ""
+
+#: lib/admin/theme-settings.php:723
+msgid "404 Page"
+msgstr ""
+
+#: lib/admin/theme-settings.php:726
+msgid "Attachment Page"
+msgstr ""
+
+#: lib/admin/theme-settings.php:729
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they "
+"are on your site with just a glance. You can enable/disable them on certain "
+"areas of your site."
+msgstr ""
+
+#: lib/admin/theme-settings.php:748
+msgid ""
+"These settings apply to any page given the \"Blog\" page template, not the "
+"homepage or post archive pages."
+msgstr ""
+
+#: lib/admin/theme-settings.php:753
+msgid "Display which category:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:754 lib/widgets/featured-post-widget.php:293
+msgid "All Categories"
+msgstr ""
+
+#: lib/admin/theme-settings.php:758
+msgid "Exclude the following Category IDs:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:760
+msgid "Comma separated - 1,2,3 for example"
+msgstr ""
+
+#: lib/admin/theme-settings.php:765
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:787 lib/admin/theme-settings.php:797
+msgid "Enter scripts or code you would like output to %s:"
+msgstr ""
+
+#: lib/admin/theme-settings.php:792 lib/admin/theme-settings.php:802
+msgid ""
+"The %1$s hook executes immediately before the closing %2$s tag in the "
+"document source."
+msgstr ""
+
+#: lib/admin/user-meta.php:36
+msgid "Author Box Settings"
+msgstr ""
+
+#: lib/admin/user-meta.php:37
+msgid "These settings apply to this author's single and archive pages."
+msgstr ""
+
+#: lib/admin/user-meta.php:41
+msgid "Author Box"
+msgstr ""
+
+#: lib/admin/user-meta.php:44
+msgid "Enable Author Box on this User's Posts?"
+msgstr ""
+
+#: lib/admin/user-meta.php:47
+msgid "Enable Author Box on this User's Archives?"
+msgstr ""
+
+#: lib/classes/admin.php:118
+msgid ""
+"You cannot use %s to create two menus in the same subclass. Please use "
+"separate subclasses for each menu."
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:81
+msgid "API License Activation"
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:82
+msgid "API License Key"
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:83
+msgid "API License email"
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:87
+msgid "API License Deactivation"
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:88
+msgid "Deactivate API License Key"
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:162
+msgid "Theme activated. "
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:168
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:257
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:299
+msgid "Theme license deactivated. "
+msgstr ""
+
+#: lib/classes/api-manager/admin/class-wc-api-manager-menu.php:368
+msgid "Deactivates an API License Key so it can be used on another site."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:370
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a "
+"license key from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:385
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:400
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:415
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:430
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:445
+msgid ""
+"The subscription for %s is still pending. You can check on the status of "
+"the subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:460
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:475
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:490
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a "
+"license key when setting up %s, or the key was deactivated in your account. "
+"You can reactivate or purchase a license key from your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:505
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key "
+"or subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:520
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license "
+"key and license email to activate %s."
+msgstr ""
+
+#: lib/classes/api-manager/classes/class-wc-plugin-update.php:535
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a "
+"href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: lib/classes/breadcrumb.php:44
+msgid "Home"
+msgstr ""
+
+#: lib/classes/breadcrumb.php:52
+msgid "You are here: "
+msgstr ""
+
+#: lib/classes/breadcrumb.php:53 lib/classes/breadcrumb.php:54
+#: lib/classes/breadcrumb.php:55 lib/classes/breadcrumb.php:56
+#: lib/classes/breadcrumb.php:58 lib/classes/breadcrumb.php:59
+msgid "Archives for "
+msgstr ""
+
+#: lib/classes/breadcrumb.php:57
+msgid "Search for "
+msgstr ""
+
+#: lib/classes/breadcrumb.php:60
+msgid "Not found: "
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:117
+#: lib/classes/metaboxes/example-functions.php:28
+msgid "Test Metabox"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:130
+#: lib/classes/cmb2/example-functions.php:459
+#: lib/classes/metaboxes/example-functions.php:36
+#: lib/classes/metaboxes/example-functions.php:270
+msgid "Test Text"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:131
+#: lib/classes/cmb2/example-functions.php:144
+#: lib/classes/cmb2/example-functions.php:157
+#: lib/classes/cmb2/example-functions.php:164
+#: lib/classes/cmb2/example-functions.php:177
+#: lib/classes/cmb2/example-functions.php:185
+#: lib/classes/cmb2/example-functions.php:194
+#: lib/classes/cmb2/example-functions.php:202
+#: lib/classes/cmb2/example-functions.php:217
+#: lib/classes/cmb2/example-functions.php:225
+#: lib/classes/cmb2/example-functions.php:233
+#: lib/classes/cmb2/example-functions.php:250
+#: lib/classes/cmb2/example-functions.php:259
+#: lib/classes/cmb2/example-functions.php:275
+#: lib/classes/cmb2/example-functions.php:282
+#: lib/classes/cmb2/example-functions.php:289
+#: lib/classes/cmb2/example-functions.php:303
+#: lib/classes/cmb2/example-functions.php:316
+#: lib/classes/cmb2/example-functions.php:329
+#: lib/classes/cmb2/example-functions.php:341
+#: lib/classes/cmb2/example-functions.php:350
+#: lib/classes/cmb2/example-functions.php:358
+#: lib/classes/cmb2/example-functions.php:367
+#: lib/classes/cmb2/example-functions.php:374
+#: lib/classes/cmb2/example-functions.php:388
+#: lib/classes/cmb2/example-functions.php:460
+#: lib/classes/cmb2/example-functions.php:551
+#: lib/classes/cmb2/example-functions.php:559
+#: lib/classes/cmb2/example-functions.php:566
+#: lib/classes/cmb2/example-functions.php:573
+#: lib/classes/cmb2/example-functions.php:580
+#: lib/classes/cmb2/example-functions.php:587
+#: lib/classes/cmb2/example-functions.php:594
+#: lib/classes/cmb2/example-functions.php:621
+#: lib/classes/cmb2/example-functions.php:629
+#: lib/classes/cmb2/example-functions.php:636
+#: lib/classes/cmb2/example-functions.php:685
+#: lib/classes/metaboxes/example-functions.php:37
+#: lib/classes/metaboxes/example-functions.php:48
+#: lib/classes/metaboxes/example-functions.php:55
+#: lib/classes/metaboxes/example-functions.php:62
+#: lib/classes/metaboxes/example-functions.php:70
+#: lib/classes/metaboxes/example-functions.php:77
+#: lib/classes/metaboxes/example-functions.php:89
+#: lib/classes/metaboxes/example-functions.php:95
+#: lib/classes/metaboxes/example-functions.php:102
+#: lib/classes/metaboxes/example-functions.php:117
+#: lib/classes/metaboxes/example-functions.php:125
+#: lib/classes/metaboxes/example-functions.php:132
+#: lib/classes/metaboxes/example-functions.php:138
+#: lib/classes/metaboxes/example-functions.php:144
+#: lib/classes/metaboxes/example-functions.php:156
+#: lib/classes/metaboxes/example-functions.php:167
+#: lib/classes/metaboxes/example-functions.php:178
+#: lib/classes/metaboxes/example-functions.php:189
+#: lib/classes/metaboxes/example-functions.php:197
+#: lib/classes/metaboxes/example-functions.php:204
+#: lib/classes/metaboxes/example-functions.php:212
+#: lib/classes/metaboxes/example-functions.php:218
+#: lib/classes/metaboxes/example-functions.php:230
+#: lib/classes/metaboxes/example-functions.php:271
+#: lib/classes/metaboxes/example-functions.php:337
+#: lib/classes/metaboxes/example-functions.php:344
+#: lib/classes/metaboxes/example-functions.php:351
+#: lib/classes/metaboxes/example-functions.php:357
+#: lib/classes/metaboxes/example-functions.php:363
+#: lib/classes/metaboxes/example-functions.php:369
+#: lib/classes/metaboxes/example-functions.php:375
+#: lib/classes/metaboxes/example-functions.php:393
+msgid "field description (optional)"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:143
+#: lib/classes/metaboxes/example-functions.php:47
+msgid "Test Text Small"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:156
+#: lib/classes/metaboxes/example-functions.php:54
+msgid "Test Text Medium"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:184
+#: lib/classes/metaboxes/example-functions.php:61
+msgid "Website URL"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:193
+#: lib/classes/metaboxes/example-functions.php:69
+msgid "Test Text Email"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:201
+#: lib/classes/metaboxes/example-functions.php:76
+msgid "Test Time"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:209
+#: lib/classes/cmb2/example-functions.php:210
+#: lib/classes/metaboxes/example-functions.php:82
+#: lib/classes/metaboxes/example-functions.php:83
+msgid "Time zone"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:216
+#: lib/classes/metaboxes/example-functions.php:88
+msgid "Test Date Picker"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:224
+#: lib/classes/metaboxes/example-functions.php:94
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:232
+#: lib/classes/metaboxes/example-functions.php:101
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:249
+#: lib/classes/metaboxes/example-functions.php:116
+msgid "Test Money"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:258
+#: lib/classes/metaboxes/example-functions.php:124
+msgid "Test Color Picker"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:274
+#: lib/classes/metaboxes/example-functions.php:131
+msgid "Test Text Area"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:281
+#: lib/classes/metaboxes/example-functions.php:137
+msgid "Test Text Area Small"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:288
+#: lib/classes/metaboxes/example-functions.php:143
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:295
+#: lib/classes/metaboxes/example-functions.php:149
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:296
+#: lib/classes/metaboxes/example-functions.php:150
+msgid "This is a title description"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:302
+#: lib/classes/metaboxes/example-functions.php:155
+msgid "Test Select"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:308
+#: lib/classes/cmb2/example-functions.php:321
+#: lib/classes/cmb2/example-functions.php:333
+#: lib/classes/metaboxes/example-functions.php:160
+#: lib/classes/metaboxes/example-functions.php:171
+#: lib/classes/metaboxes/example-functions.php:182
+msgid "Option One"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:309
+#: lib/classes/cmb2/example-functions.php:322
+#: lib/classes/cmb2/example-functions.php:334
+#: lib/classes/metaboxes/example-functions.php:161
+#: lib/classes/metaboxes/example-functions.php:172
+#: lib/classes/metaboxes/example-functions.php:183
+msgid "Option Two"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:310
+#: lib/classes/cmb2/example-functions.php:323
+#: lib/classes/cmb2/example-functions.php:335
+#: lib/classes/metaboxes/example-functions.php:162
+#: lib/classes/metaboxes/example-functions.php:173
+#: lib/classes/metaboxes/example-functions.php:184
+msgid "Option Three"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:315
+#: lib/classes/metaboxes/example-functions.php:166
+msgid "Test Radio inline"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:328
+#: lib/classes/metaboxes/example-functions.php:177
+msgid "Test Radio"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:340
+#: lib/classes/metaboxes/example-functions.php:188
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:349
+#: lib/classes/metaboxes/example-functions.php:196
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:357
+#: lib/classes/metaboxes/example-functions.php:203
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:366
+#: lib/classes/metaboxes/example-functions.php:211
+msgid "Test Checkbox"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:373
+#: lib/classes/metaboxes/example-functions.php:217
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:379
+#: lib/classes/metaboxes/example-functions.php:222
+msgid "Check One"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:380
+#: lib/classes/metaboxes/example-functions.php:223
+msgid "Check Two"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:381
+#: lib/classes/metaboxes/example-functions.php:224
+msgid "Check Three"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:387
+#: lib/classes/metaboxes/example-functions.php:229
+msgid "Test wysiwyg"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:397
+#: lib/classes/metaboxes/example-functions.php:236
+msgid "Test Image"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:398
+#: lib/classes/metaboxes/example-functions.php:237
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:404
+#: lib/classes/metaboxes/example-functions.php:242
+msgid "Multiple Files"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:405
+#: lib/classes/metaboxes/example-functions.php:243
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:412
+#: lib/classes/metaboxes/example-functions.php:249
+msgid "oEmbed"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:415
+#. translators: %s: link to codex.wordpress.org/Embeds
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:448
+#: lib/classes/metaboxes/example-functions.php:262
+msgid "About Page Metabox"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:479
+#: lib/classes/metaboxes/example-functions.php:283
+msgid "Repeating Field Group"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:487
+#: lib/classes/metaboxes/example-functions.php:289
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:489
+#: lib/classes/metaboxes/example-functions.php:291
+msgid "Entry {#}"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:490
+#: lib/classes/metaboxes/example-functions.php:292
+msgid "Add Another Entry"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:491
+#: lib/classes/metaboxes/example-functions.php:293
+msgid "Remove Entry"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:504
+msgid "Entry Title"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:511
+#: lib/widgets/icon-box-widget.php:189
+msgid "Description"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:512
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:518
+msgid "Entry Image"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:524
+msgid "Image Caption"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:543
+#: lib/classes/metaboxes/example-functions.php:330
+msgid "User Profile Metabox"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:550
+#: lib/classes/cmb2/example-functions.php:620
+#: lib/classes/metaboxes/example-functions.php:336
+msgid "Extra Info"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:558
+#: lib/classes/metaboxes/example-functions.php:343
+msgid "Avatar"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:565
+#: lib/classes/metaboxes/example-functions.php:350
+msgid "Facebook URL"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:572
+#: lib/classes/metaboxes/example-functions.php:356
+msgid "Twitter URL"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:586
+#: lib/classes/metaboxes/example-functions.php:368
+msgid "Linkedin URL"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:593
+#: lib/classes/metaboxes/example-functions.php:374
+msgid "User Field"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:613
+msgid "Category Metabox"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:628
+msgid "Term Image"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:635
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:654
+msgid "Theme Options"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:684
+#: lib/classes/metaboxes/example-functions.php:392
+msgid "Site Background Color"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:721
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:755
+msgid "REST Test Box"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:764
+msgid "REST Test Text"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:765
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:771
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: lib/classes/cmb2/example-functions.php:772
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2.php:179
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2.php:581
+msgid "Click to toggle"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Ajax.php:75
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Ajax.php:181
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Ajax.php:189
+#: lib/classes/cmb2/includes/helper-functions.php:105
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Base.php:422
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Base.php:426
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Base.php:456
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Base.php:458
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Base.php:491
+#: lib/classes/cmb2/includes/CMB2_Hookup_Base.php:100
+#: lib/classes/cmb2/includes/CMB2_Options_Hookup.php:341
+#: lib/classes/cmb2/includes/types/CMB2_Type_Base.php:149
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Base.php:506
+#: lib/classes/cmb2/includes/types/CMB2_Type_Base.php:133
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Field.php:1228
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Field.php:1229
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Field.php:1260
+#: lib/classes/cmb2/includes/CMB2_Field.php:1264
+#: lib/widgets/featured-page-widget.php:234
+#: lib/widgets/featured-post-widget.php:356
+#: lib/widgets/featured-post-widget.php:386
+msgid "None"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Field.php:1375
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Field_Display.php:432
+#: lib/classes/cmb2/includes/CMB2_JS.php:204
+#: lib/classes/cmb2/includes/types/CMB2_Type_File_Base.php:79
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Hookup_Base.php:42
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:143
+#: lib/classes/cmb2/includes/CMB2_JS.php:184 lib/classes/metaboxes/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:145 lib/classes/metaboxes/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:146 lib/classes/metaboxes/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:175
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:176
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:177
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:178
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:179
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:180
+msgid "Next"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:181
+msgid "Prev"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:182
+msgid "Today"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:183
+#: lib/classes/cmb2/includes/CMB2_JS.php:193
+msgid "Done"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:187
+msgid "Choose Time"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:188
+msgid "Time"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:189
+msgid "Hour"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:190
+msgid "Minute"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:191
+msgid "Second"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:192
+msgid "Now"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:200
+msgid "Use this file"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:201
+msgid "Use these files"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:202
+#: lib/classes/cmb2/includes/types/CMB2_Type_File_Base.php:64
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:695
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:203
+#: lib/classes/cmb2/includes/CMB2_Types.php:412
+#: lib/classes/cmb2/includes/types/CMB2_Type_File_Base.php:84
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:306
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Remove"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:205
+#: lib/classes/cmb2/includes/types/CMB2_Type_File_Base.php:82
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:706
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:206 lib/classes/metaboxes/init.php:288
+#: lib/js/load-scripts.php:102
+msgid "Select / Deselect All"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Options_Hookup.php:131
+msgid "Nothing to update."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Options_Hookup.php:135
+msgid "Settings updated."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Types.php:349
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_hookup.php:181
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_hookup.php:185
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_hookup.php:458
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: lib/classes/cmb2/includes/helper-functions.php:303
+#: lib/classes/metaboxes/init.php:1177
+msgid "Save"
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid "Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid "CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: lib/classes/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+msgid "Value Error for %s"
+msgstr ""
+
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:25
+#. translators: %s: register_routes()
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:35
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:47
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:59
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:71
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:83
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:95
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:107
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:119
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:131
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:143
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:155
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:168
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: lib/classes/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in "
+"response."
+msgstr ""
+
+#: lib/classes/cmb2/includes/types/CMB2_Type_File.php:76
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:674
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/classes/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: lib/classes/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:100
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:601
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-importer.php:97
+msgid ""
+"This user is created while installing demo content. You should delete or "
+"modify this user&#8217;s information now."
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-importer.php:662
+msgid "Invalid attachment file type!"
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-importer.php:838
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-importer.php:846
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-importer.php:851
+msgid "Zero size file downloaded."
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-importer.php:858
+msgid "Remote file is too large, limit is %s."
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-importer.php:1141
+#: lib/classes/merlin/includes/class-merlin-importer.php:1142
+msgid "Taxonomy names must be between 1 and 32 characters in length."
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-xml-parser.php:42
+#: lib/classes/merlin/includes/class-merlin-xml-parser.php:67
+#: lib/classes/merlin/includes/class-merlin-xml-parser.php:75
+#: lib/classes/merlin/includes/class-merlin-xml-parser.php:79
+#: lib/classes/merlin/includes/class-merlin-xml-parser.php:277
+msgid "Invalid WXR file."
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-xml-parser.php:50
+msgid "No XML parser found."
+msgstr ""
+
+#: lib/classes/merlin/includes/class-merlin-xml-parser.php:265
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:513
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:518
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:612
+msgid "Welcome"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:619
+msgid "Child"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:626
+msgid "Plugins"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:634 lib/shortcodes/content.php:488
+msgid "Content"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:640
+msgid "Ready"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:889 lib/classes/plugin-activations.php:2861
+msgid "Install"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:892 lib/classes/plugin-activations.php:2867
+msgid "Update"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:895 lib/classes/plugin-activations.php:2870
+msgid "Activate"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:897
+msgid "and"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1286
+msgid "Activating"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1302
+msgid "Updating"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1318 lib/classes/merlin/merlin.php:1416
+#: lib/classes/merlin/merlin.php:1431 lib/classes/merlin/merlin.php:1444
+#: lib/classes/merlin/merlin.php:1457
+msgid "Installing"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1328 lib/classes/merlin/merlin.php:1417
+#: lib/classes/merlin/merlin.php:1432 lib/classes/merlin/merlin.php:1445
+#: lib/classes/merlin/merlin.php:1458
+msgid "Success"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1347
+msgid "Invalid content!"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1385
+msgid "Error"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1414
+msgid "Sample %s data."
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1415 lib/classes/merlin/merlin.php:1430
+#: lib/classes/merlin/merlin.php:1443 lib/classes/merlin/merlin.php:1456
+msgid "Pending"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1428
+msgid "Widgets"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1429
+msgid "Sample widgets data."
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1441
+msgid "Sliders"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1442
+msgid "Sample sliders data."
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1454
+msgid "Options"
+msgstr ""
+
+#: lib/classes/merlin/merlin.php:1455
+msgid "Sample theme options data."
+msgstr ""
+
+#: lib/classes/metaboxes/example-functions.php:250
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: lib/classes/metaboxes/example-functions.php:388
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: lib/classes/metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:339 lib/functions/plugins.php:80
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:340 lib/functions/plugins.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:342 lib/functions/plugins.php:82
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:344
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:345 lib/functions/plugins.php:83
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:347 lib/functions/plugins.php:84
+#. translators: 1: plugin name(s).
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:353 lib/functions/plugins.php:85
+#. translators: 1: plugin name(s).
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:359 lib/functions/plugins.php:90
+#. translators: 1: plugin name(s).
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:365
+#. translators: 1: plugin name(s).
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:371 lib/functions/plugins.php:87
+#. translators: 1: plugin name(s).
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:377 lib/functions/plugins.php:88
+#. translators: 1: plugin name(s).
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:382 lib/functions/plugins.php:92
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:392 lib/functions/plugins.php:93
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:397 lib/functions/plugins.php:94
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:399
+#: lib/classes/plugin-activations.php:3304 lib/functions/plugins.php:95
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:400
+#: lib/classes/plugin-activations.php:3097
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:402
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:404
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:406
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:615
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:616
+msgid "Update Required"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:731
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:1038
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:1038
+#: lib/classes/plugin-activations.php:1048
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:1048
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2106
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2415
+msgid "Required"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2418
+msgid "Recommended"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2434
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2437
+msgid "External Source"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2440
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2457
+msgid "Not Installed"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2461
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2463
+msgid "Active"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2469
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2472
+msgid "Requires Update"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2475
+msgid "Update recommended"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2534
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:2538
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:2542
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:2632
+msgid "Installed version:"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2640
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2652
+msgid "Available version:"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2675
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2689
+msgid "Plugin"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2690
+msgid "Source"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2691 lib/widgets/icon-box-widget.php:163
+msgid "Type"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2695
+msgid "Version"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2696
+msgid "Status"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2745
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2750
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2756
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2828
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2901
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2903
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2944
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2946
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3053
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3079
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3303
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3647
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3650
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3652
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3656
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3658
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3659
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3661
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3664
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3666
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3667
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3669
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3674
+msgid "Show Details"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:3674
+msgid "Hide Details"
+msgstr ""
+
+#: lib/classes/theme-updater.php:123 lib/classes/theme-updater.php:132
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: lib/classes/theme-updater.php:166
+msgid "License"
+msgstr ""
+
+#: lib/classes/theme-updater.php:167
+msgid "Equity License Manager"
+msgstr ""
+
+#: lib/classes/theme-updater.php:168
+msgid "License Activation"
+msgstr ""
+
+#: lib/classes/theme-updater.php:169
+msgid "License Deactivation"
+msgstr ""
+
+#: lib/classes/theme-updater.php:389
+msgid ""
+"The Equity Theme License Key has not been activated! %sClick here%s to "
+"activate the license key and the theme."
+msgstr ""
+
+#: lib/classes/theme-updater.php:408
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+#: lib/framework/comments.php:72
+msgid "<h3>Comments</h3>"
+msgstr ""
+
+#: lib/framework/comments.php:141
+msgid "<h3>Trackbacks</h3>"
+msgstr ""
+
+#: lib/framework/comments.php:242
+msgid "says"
+msgstr ""
+
+#: lib/framework/comments.php:252
+msgid "at"
+msgstr ""
+
+#: lib/framework/comments.php:255 lib/framework/post.php:259
+#: lib/shortcodes/post.php:415
+msgid "(Edit)"
+msgstr ""
+
+#: lib/framework/comments.php:272
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/framework/header.php:239 lib/framework/header.php:266
+#: lib/functions/menu.php:161
+msgid "Please Setup your Menus"
+msgstr ""
+
+#: lib/framework/header.php:513 lib/framework/header.php:517
+msgid "Skip to main navigation"
+msgstr ""
+
+#: lib/framework/header.php:520
+msgid "Skip to content"
+msgstr ""
+
+#: lib/framework/header.php:523
+msgid "Skip to primary sidebar"
+msgstr ""
+
+#: lib/framework/header.php:528
+msgid "Skip to footer"
+msgstr ""
+
+#: lib/framework/post.php:193
+msgid "by"
+msgstr ""
+
+#: lib/framework/post.php:266 lib/framework/post.php:268
+#: lib/widgets/featured-page-carousel.php:30
+#: lib/widgets/featured-page-carousel.php:189
+#: lib/widgets/featured-post-carousel.php:32
+#: lib/widgets/featured-post-carousel.php:209
+#: lib/widgets/featured-post-widget.php:56
+msgid "Continue reading..."
+msgstr ""
+
+#: lib/framework/post.php:289
+msgid "Pages:"
+msgstr ""
+
+#: lib/framework/post.php:314
+msgid "Permalink"
+msgstr ""
+
+#: lib/framework/post.php:328
+msgid ""
+"<div class=\"entry\"><p>Ready to publish your first post? <a "
+"href=\"%1$s\">Get started here</a>.</p></div>"
+msgstr ""
+
+#: lib/framework/post.php:332
+msgid ""
+"<div class=\"entry\"><p>Sorry, but nothing matched your search terms. "
+"Please try again with some different keywords.</p></div>"
+msgstr ""
+
+#: lib/framework/post.php:337
+msgid ""
+"<div class=\"entry\"><p>It seems we can&rsquo;t find what you&rsquo;re "
+"looking for. Perhaps searching can help.</p></div>"
+msgstr ""
+
+#: lib/framework/post.php:461
+msgid "About"
+msgstr ""
+
+#: lib/framework/post.php:563 lib/framework/post.php:645
+msgid " Previous Page"
+msgstr ""
+
+#: lib/framework/post.php:564 lib/framework/post.php:679
+msgid "Next Page "
+msgstr ""
+
+#: lib/framework/post.php:575 lib/framework/post.php:639
+msgid "Posts navigation"
+msgstr ""
+
+#: lib/framework/post.php:707
+msgid "Post navigation"
+msgstr ""
+
+#: lib/framework/search.php:30
+msgid "Search this website"
+msgstr ""
+
+#: lib/framework/search.php:32
+msgid "Search"
+msgstr ""
+
+#: lib/framework/search.php:38
+msgid "Search for:"
+msgstr ""
+
+#: lib/framework/sidebar.php:27
+msgid "Default Sidebar Widget Area"
+msgstr ""
+
+#: lib/framework/sidebar.php:46
+msgid ""
+"This is the %s. Drag and drop any available widgets into place by visiting "
+"the <a href=\"%s\">Widgets Page</a>."
+msgstr ""
+
+#: lib/functions/layout.php:36
+msgid "Content-Sidebar"
+msgstr ""
+
+#: lib/functions/layout.php:41
+msgid "Sidebar-Content"
+msgstr ""
+
+#: lib/functions/layout.php:94
+msgid "No Label Selected"
+msgstr ""
+
+#: lib/functions/markup.php:1012
+msgid "Main navigation"
+msgstr ""
+
+#: lib/functions/markup.php:1029
+msgid "Header Right navigation"
+msgstr ""
+
+#: lib/functions/menu.php:184
+msgid "CSS Classes can be added to menu items to create Labels and Dividers."
+msgstr ""
+
+#: lib/functions/menu.php:185
+msgid ""
+"To add a <em>Label</em>, add a CSS class of \"<strong>label</strong>\" "
+"(without quotes). The Title is used as the Label text. Use a pound sign (#) "
+"for the URL."
+msgstr ""
+
+#: lib/functions/menu.php:186
+msgid ""
+"To add a <em>Divider</em>, add a CSS class of \"<strong>divider</strong>\" "
+"(without quotes). The Title will not be displayed. Use a pound sign (#) for "
+"the URL."
+msgstr ""
+
+#: lib/functions/menu.php:191
+msgid "Menu Options"
+msgstr ""
+
+#: lib/functions/plugins.php:78
+msgid "The following plugins are recommended to get the most out of your theme."
+msgstr ""
+
+#: lib/functions/plugins.php:86
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/plugins.php:89
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/plugins.php:91
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/plugins.php:96
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lib/functions/widgetize.php:81
+msgid "Default Sidebar"
+msgstr ""
+
+#: lib/functions/widgetize.php:82
+msgid "This is the default sidebar."
+msgstr ""
+
+#: lib/functions/widgetize.php:116
+msgid "Footer %d"
+msgstr ""
+
+#: lib/functions/widgetize.php:117
+msgid "Footer %d widget area."
+msgstr ""
+
+#: lib/functions/widgetize.php:145
+msgid "Top Header Left"
+msgstr ""
+
+#: lib/functions/widgetize.php:146
+msgid "This is the top left widget area above the main header."
+msgstr ""
+
+#: lib/functions/widgetize.php:156
+msgid "Top Header Right"
+msgstr ""
+
+#: lib/functions/widgetize.php:157
+msgid "This is the top right widget area above the main header."
+msgstr ""
+
+#: lib/functions/widgetize.php:180
+msgid "Header Left"
+msgstr ""
+
+#: lib/functions/widgetize.php:180
+msgid "Header Right"
+msgstr ""
+
+#: lib/functions/widgetize.php:181
+msgid "This is the widget area in the header."
+msgstr ""
+
+#: lib/functions/widgetize.php:205
+msgid "After Entry"
+msgstr ""
+
+#: lib/functions/widgetize.php:206
+msgid "This is the widget area after single posts."
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:33
+msgid "Displays a carousel of properties"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:51 lib/shortcodes/idx.php:262
+#: lib/widgets/featured-listing-scroller.php:36
+#: lib/widgets/featured-page-carousel.php:39
+#: lib/widgets/featured-post-carousel.php:41
+msgid "<i class=\\\"fa fa-chevron-circle-left\\\"></i><span>Prev</span>"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:52 lib/shortcodes/idx.php:263
+#: lib/widgets/featured-listing-scroller.php:37
+#: lib/widgets/featured-page-carousel.php:40
+#: lib/widgets/featured-post-carousel.php:42
+msgid "<i class=\\\"fa fa-chevron-circle-right\\\"></i><span>Next</span>"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:269
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:329
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:333
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:395
+msgid "Properties"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:343
+#: lib/idx/class.Equity_City_Links_Widget.inc.php:130
+#: lib/idx/class.Equity_Idx_Widget.inc.php:103
+#: lib/idx/class.Equity_Lead_Login_Widget.inc.php:123
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:248
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:410
+#: lib/widgets/custom-menu-widget.php:66
+#: lib/widgets/featured-listing-scroller.php:196
+#: lib/widgets/featured-page-carousel.php:198
+#: lib/widgets/featured-post-carousel.php:217
+msgid "Title:"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:348
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:415
+msgid "Properties to Display:"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:350
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:417
+msgid "Featured"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:351
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:418
+msgid "Sold/Pending"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:352
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:419
+msgid "Supplemental"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:353
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:420
+msgid "Use Saved Link"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:365
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:432
+msgid "Limit by Agent:"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:372
+msgid "Listings to show without scrolling:"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:377
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:458
+msgid "Max number of listings to show:"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:382
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:463
+msgid "Sort order:"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:384
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:465
+msgid "Highest to Lowest Price"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:385
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:466
+msgid "Lowest to Highest Price"
+msgstr ""
+
+#: lib/idx/class.Equity_Carousel_Widget.inc.php:390
+#: lib/widgets/featured-listing-scroller.php:256
+#: lib/widgets/featured-page-carousel.php:254
+#: lib/widgets/featured-post-carousel.php:281
+msgid "Autoplay?"
+msgstr ""
+
+#: lib/idx/class.Equity_City_Links_Widget.inc.php:36
+msgid "Outputs a list of city links"
+msgstr ""
+
+#: lib/idx/class.Equity_Idx_Listing.php:219
+msgid "Import IDX Listings"
+msgstr ""
+
+#: lib/idx/class.Equity_Idx_Widget.inc.php:34
+msgid "Equity - IDX Dashboard Widget"
+msgstr ""
+
+#: lib/idx/class.Equity_Idx_Widget.inc.php:36
+msgid "Embed an IDX widget from the IDX dashboard"
+msgstr ""
+
+#: lib/idx/class.Equity_Idx_Widget.inc.php:108
+msgid ""
+"IDX widgets are widgets you have created in your IDX dashboard.\n"
+"\t\t\tAllow one hour for a widget to appear in this list after it has been "
+"created in the IDX dashboard."
+msgstr ""
+
+#: lib/idx/class.Equity_Idx_Widget.inc.php:114
+msgid "Select a widget"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:39
+msgid "Equity - IDX Lead Account"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:41
+msgid "Lead account login/quick display"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:324
+#: lib/idx/class.Equity_Lead_Login_Widget.inc.php:77
+msgid "Email Address:"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:324
+msgid "Email address"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:326
+msgid "Login"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:345
+msgid "My Account"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:346
+msgid "(Log out)"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:359
+msgid "Saved Properties"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:393
+msgid "Saved Searches"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:466
+msgid "Title (optional):"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:511
+msgid "No account found for email."
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Account_Widget.inc.php:539
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Login_Widget.inc.php:34
+msgid "Equity - IDX Lead Login"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Login_Widget.inc.php:36
+msgid "Lead login form"
+msgstr ""
+
+#: lib/idx/class.Equity_Lead_Login_Widget.inc.php:127
+msgid "Custom Text"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:39
+msgid "IDX quick search widget"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:53
+msgid "Select a City"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:54
+msgid "Min Price"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:55
+msgid "Max Price"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:56
+msgid "Beds"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:57
+msgid "Baths"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:104
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:154
+msgid "Advanced Search"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:107
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:157
+msgid "Map Search"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:178
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:236
+msgid "Property Search"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:253
+msgid "Select a city list:"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:261
+msgid "Search Button Text:"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:266
+msgid "Orientation:"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:268
+msgid "Vertical"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:269
+msgid "Horizontal"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:275
+msgid "Include Advanced Search link?"
+msgstr ""
+
+#: lib/idx/class.Equity_Quicksearch_Widget.inc.php:280
+msgid "Include Map Search link?"
+msgstr ""
+
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:33
+msgid "Displays a showcase of properties"
+msgstr ""
+
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:440
+msgid "Show image?"
+msgstr ""
+
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:445
+msgid "Use rows?"
+msgstr ""
+
+#: lib/idx/class.Equity_Showcase_Widget.inc.php:449
+msgid "Listings per row:"
+msgstr ""
+
+#: lib/idx/init.php:120
+msgid "Once Weekly"
+msgstr ""
+
+#: lib/init.php:79
+msgid "Main Menu"
+msgstr ""
+
+#: lib/js/load-scripts.php:103
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: lib/js/load-scripts.php:104
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: lib/shortcodes/content.php:353
+msgid "Text"
+msgstr ""
+
+#: lib/shortcodes/content.php:354
+msgid "Content for the alert box"
+msgstr ""
+
+#: lib/shortcodes/content.php:399
+msgid "Button Text"
+msgstr ""
+
+#: lib/shortcodes/content.php:400
+msgid "Content for button"
+msgstr ""
+
+#: lib/shortcodes/content.php:489
+msgid "Content for the icon box"
+msgstr ""
+
+#: lib/shortcodes/content.php:556
+msgid "Quote"
+msgstr ""
+
+#: lib/shortcodes/content.php:557
+msgid "Content for the block quote"
+msgstr ""
+
+#: lib/shortcodes/content.php:571 lib/shortcodes/content.php:572
+msgid "Select Image"
+msgstr ""
+
+#: lib/shortcodes/footer.php:124
+msgid "Log in"
+msgstr ""
+
+#: lib/shortcodes/footer.php:126
+msgid "Log out"
+msgstr ""
+
+#: lib/shortcodes/post.php:42 lib/shortcodes/post.php:115
+msgid "ago"
+msgstr ""
+
+#: lib/shortcodes/post.php:287
+msgid "% Comments"
+msgstr ""
+
+#: lib/shortcodes/post.php:288
+msgid "1 Comment"
+msgstr ""
+
+#: lib/shortcodes/post.php:289
+msgid "Leave a Comment"
+msgstr ""
+
+#: lib/shortcodes/post.php:332
+msgid "<i class=\"fa fa-tag\"></i> Tagged: "
+msgstr ""
+
+#: lib/shortcodes/post.php:370
+msgid "<i class=\"fa fa-folder-open-o\"></i> Posted in: "
+msgstr ""
+
+#: lib/widgets/custom-menu-widget.php:20
+msgid ""
+"Adds a custom menu that outputs the link title, description, and optional "
+"icon."
+msgstr ""
+
+#: lib/widgets/custom-menu-widget.php:21
+msgid "Equity - Custom Menu"
+msgstr ""
+
+#: lib/widgets/custom-menu-widget.php:61
+msgid "No menus have been created yet. <a href=\"%s\">Go create some</a>!"
+msgstr ""
+
+#: lib/widgets/custom-menu-widget.php:70
+msgid "Select Menu:"
+msgstr ""
+
+#: lib/widgets/featured-listing-scroller.php:18
+msgid "Display featured listings in a responsive scroller"
+msgstr ""
+
+#: lib/widgets/featured-listing-scroller.php:20
+msgid "Equity - Featured Listings Scroller"
+msgstr ""
+
+#: lib/widgets/featured-listing-scroller.php:146
+msgid "View Listing"
+msgstr ""
+
+#: lib/widgets/featured-listing-scroller.php:204
+#: lib/widgets/featured-page-carousel.php:231
+#: lib/widgets/featured-page-widget.php:220
+#: lib/widgets/featured-post-carousel.php:258
+#: lib/widgets/featured-post-widget.php:372
+msgid "Image Size"
+msgstr ""
+
+#: lib/widgets/featured-listing-scroller.php:218
+msgid "How many results should be returned?"
+msgstr ""
+
+#: lib/widgets/featured-listing-scroller.php:225
+msgid ""
+"How many results should be shown in the widget at one time without "
+"scrolling?"
+msgstr ""
+
+#: lib/widgets/featured-listing-scroller.php:233
+msgid "All Taxonomies and Terms"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:18
+msgid "Display featured pages in a responsive carousel"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:20
+msgid "Equity - Featured Page Carousel"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:115
+#: lib/widgets/featured-page-widget.php:119
+#: lib/widgets/featured-post-carousel.php:123
+#: lib/widgets/featured-post-widget.php:149
+msgid "(no title)"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:206
+msgid "Page ID's to display. Enter multiples separated by comma"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:211
+#: lib/widgets/featured-page-widget.php:249
+#: lib/widgets/featured-post-carousel.php:238
+#: lib/widgets/featured-post-widget.php:413
+msgid "Content Type"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:213
+#: lib/widgets/featured-page-widget.php:251
+#: lib/widgets/featured-post-carousel.php:240
+#: lib/widgets/featured-post-widget.php:415
+msgid "Show Content"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:214
+#: lib/widgets/featured-page-widget.php:252
+#: lib/widgets/featured-post-carousel.php:241
+#: lib/widgets/featured-post-widget.php:416
+msgid "Show Excerpt"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:215
+#: lib/widgets/featured-page-widget.php:253
+#: lib/widgets/featured-post-carousel.php:242
+#: lib/widgets/featured-post-widget.php:417
+msgid "Show Content Limit"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:216
+#: lib/widgets/featured-page-widget.php:254
+#: lib/widgets/featured-post-carousel.php:243
+#: lib/widgets/featured-post-widget.php:418
+msgid "No Content"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:226
+#: lib/widgets/featured-post-carousel.php:253
+#: lib/widgets/featured-post-widget.php:428
+msgid "More Text (if applicable)"
+msgstr ""
+
+#: lib/widgets/featured-page-carousel.php:246
+msgid "How many pages should be shown in the widget at one time without scrolling?"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:51
+msgid "Displays featured page with thumbnails"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:61
+msgid "Equity - Featured Page"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:203
+#: lib/widgets/featured-post-widget.php:277
+#: lib/widgets/featured-post-widget.php:313
+#: lib/widgets/featured-post-widget.php:439
+msgid "Title"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:216
+#: lib/widgets/featured-post-widget.php:368
+msgid "Show Featured Image"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:232
+#: lib/widgets/featured-post-widget.php:384
+msgid "Image Alignment"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:237
+#: lib/widgets/featured-post-widget.php:389
+msgid "Center"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:245
+msgid "Show Page Title"
+msgstr ""
+
+#: lib/widgets/featured-page-widget.php:266
+msgid "More Text"
+msgstr ""
+
+#: lib/widgets/featured-post-carousel.php:18
+msgid "Display featured posts in a responsive carousel"
+msgstr ""
+
+#: lib/widgets/featured-post-carousel.php:20
+msgid "Equity - Featured Post Carousel"
+msgstr ""
+
+#: lib/widgets/featured-post-carousel.php:222
+msgid "Post Type"
+msgstr ""
+
+#: lib/widgets/featured-post-carousel.php:230
+msgid "Posts to display:"
+msgstr ""
+
+#: lib/widgets/featured-post-carousel.php:273
+msgid "Initial number of posts to display without scrolling"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:53
+msgid "By"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:60
+msgid "More Posts from this Category"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:65
+msgid "Displays featured posts with thumbnails"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:75
+msgid "Equity - Featured Posts"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:286
+msgid "Category"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:300
+#: lib/widgets/featured-post-widget.php:444
+msgid "Number of Posts to Show"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:305
+msgid "Number of Posts to Offset"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:310
+msgid "Order By"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:312
+msgid "Date"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:314
+msgid "Parent"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:315
+msgid "ID"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:316
+msgid "Comment Count"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:317
+msgid "Random"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:322
+msgid "Sort Order"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:324
+msgid "Descending (3, 2, 1)"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:325
+msgid "Ascending (1, 2, 3)"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:331
+msgid "Exclude Previously Displayed Posts?"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:340
+msgid "Show Author Gravatar"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:344
+msgid "Gravatar Size"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:346
+msgid "Small (45px)"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:347
+msgid "Medium (65px)"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:348
+msgid "Large (85px)"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:349
+msgid "Extra Large (125px)"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:354
+msgid "Gravatar Alignment"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:403
+msgid "Show Post Title"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:408
+msgid "Show Post Info"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:436
+msgid ""
+"To display an unordered list of more posts from this category, please fill "
+"out the information below"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:454
+msgid "Show Category Archive Link"
+msgstr ""
+
+#: lib/widgets/featured-post-widget.php:458
+msgid "Link Text"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:48
+msgid "Displays icon box call to action."
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:58
+msgid "Equity - Icon Box"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:158
+msgid "Heading"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:165
+msgid "Type 1"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:166
+msgid "Type 2"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:167
+msgid "Type 3"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:168
+msgid "Type 4"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:169
+msgid "Type 5"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:175
+msgid "Open in New Tab?"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:179
+msgid ""
+"Icon Class (<a href=\"http://fontawesome.io/cheatsheet/\" "
+"target=\"_blank\">list of available icon classes</a>)"
+msgstr ""
+
+#: lib/widgets/icon-box-widget.php:184
+msgid "URL to link to (optional)"
+msgstr ""
+
+#: search.php:22
+msgid "Search Results for:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Equity"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Real Estate theme framework"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "IDX, LLC"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://idxbroker.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "AVM"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Community API"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Communities"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Landing"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:174
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: lib/classes/cmb2/includes/CMB2_JS.php:194
+msgctxt ""
+"Valid formatting string, as per "
+"http://trentrichardson.com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:1237
+#: lib/classes/plugin-activations.php:3093
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2484
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/classes/plugin-activations.php:2530
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/classes/plugin-activations.php:2624
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/functions/formatting.php:282
+msgctxt "time difference"
+msgid "seconds"
+msgstr ""
+
+#: lib/functions/formatting.php:286
+msgctxt "time difference"
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/formatting.php:287
+msgctxt "time difference"
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/formatting.php:288
+msgctxt "time difference"
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/formatting.php:289
+msgctxt "time difference"
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/formatting.php:290
+msgctxt "time difference"
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/formatting.php:291
+msgctxt "time difference"
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/formatting.php:292
+msgctxt "time difference"
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/functions/formatting.php:317
+msgctxt "separator in time difference"
+msgid "and"
+msgstr ""
+
+#: lib/functions/general.php:429
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: lib/functions/general.php:434
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
