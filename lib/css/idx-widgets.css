@@ -1,0 +1,179 @@
+/* =IDX Widgets - Equity (defaults)
+ *
+ * DO NOT EDIT. Your child theme should have an idx-widgets.css in the root folder,
+ * If it does not, copy this file to your child theme and customize as needed.
+ * 
+------------------------------------------------------------------------- */
+
+/* =Quick search
+------------------------------------------------------------------------- */
+.equity-idx-search-widget {
+	overflow: hidden;
+}
+
+.equity-idx-search-widget .horizontal > .columns.large-9 {
+	padding: 0;
+}
+
+.equity-idx-search-widget .equity-qs-price-min,
+.equity-idx-search-widget .equity-qs-price-max,
+.equity-idx-search-widget .vertical .equity-qs-beds,
+.equity-idx-search-widget .vertical .equity-qs-baths {
+	width: 45%;
+	float: left;
+}
+
+.equity-idx-search-widget .equity-qs-price-max,
+.equity-idx-search-widget .vertical .equity-qs-baths {
+	float: right;
+}
+
+.equity-idx-search-widget .equity-qs-price {
+	display: inline-block;
+	text-align: center;
+	line-height: 2;
+}
+
+.equity-idx-search-widget .equity-qs-links {
+	font-size: 15px;
+}
+
+.equity-idx-search-widget .equity-qs-links .advanced-search,
+.equity-idx-search-widget .equity-qs-links .map-search,
+.equity-idx-search-widget .vertical .advanced-search,
+.equity-idx-search-widget .vertical .map-search {
+	display: block;
+	float: left;
+}
+
+.equity-idx-search-widget .equity-qs-links .map-search,
+.equity-idx-search-widget .vertical .map-search {
+	float: right;
+}
+
+.equity-idx-search-widget .equity-qs-submit-button {
+	display: block;
+	font-size: 20px;
+	margin: 0 auto .67rem;
+}
+
+.equity-idx-search-widget .vertical .equity-qs-submit-button {
+	clear: both;
+}
+
+.equity-idx-search-widget .equity-qs-submit-button .fas {
+	margin: 0 5px 0 0;
+}
+
+
+/* =Property Showcase
+------------------------------------------------------------------------- */
+.showcase-property,
+.showcase-property p {
+	text-align: center;
+	font-size: 14px;
+}
+.showcase-property p.disclaimer {
+	margin-bottom: 1rem;
+	font-size: 11px;
+}
+.showcase-property .showcase-photo {
+	position: relative;
+	display: block;
+	margin-bottom: 0.4rem;
+}
+.showcase-property img {
+	border: 1px solid #ccc;
+}
+.showcase-property p.disclaimer img {
+	border: none;
+}
+.showcase-property span.price {
+	font-size: 18px;
+	display: block;
+}
+.showcase-property span.street {
+	display: block;
+}
+.showcase-property span.status {
+	display: none;
+}
+.showcase-property .address {
+	margin-bottom: 5px;
+}
+.showcase-property .beds-baths-sqft {
+	margin-bottom: 0.4rem;
+}
+.showcase-property .beds-baths-sqft span {
+	margin: 0 5px;
+}
+.showcase-property .disclaimer p {
+	font-size: 10px;
+	margin: 0;
+}
+.showcase-property .disclaimer p img {
+	border: none;
+}
+
+/* =City Links
+------------------------------------------------------------------------- */
+.equity-city-links-widget ul {
+	margin: 0;
+}
+.equity-city-links-widget ul li {
+	list-style-type: none;
+}
+
+
+/* =Carousel
+------------------------------------------------------------------------- */
+.equity-idx-carousel {
+	overflow: hidden;
+	text-align: center;
+}
+.equity-idx-carousel .owl-item .carousel-property {
+	margin: 0 10px;
+}
+.equity-idx-carousel .owl-controls {
+	text-align: center;
+}
+.equity-idx-carousel .owl-controls i {
+	font-size: 24px;
+	display: block;
+}
+.equity-idx-carousel .owl-controls span {
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.equity-idx-carousel .owl-controls .owl-prev {
+	float: left;
+}
+.equity-idx-carousel .owl-controls .owl-next {
+	float: right;
+}
+.equity-idx-carousel img {
+	margin-bottom: 10px;
+}
+.equity-idx-carousel span.price {
+	font-size: 24px;
+}
+.equity-idx-carousel p {
+	margin-bottom: 0;
+}
+.equity-idx-carousel p.disclaimer {
+	font-size: 11px;
+	margin: 5px 0 0;
+}
+.equity-idx-carousel span.street {
+	display: block;
+}
+.equity-idx-carousel .beds-baths-sqft span {
+	margin: 0 5px;
+}
+.equity-idx-carousel .disclaimer p {
+	font-size: 10px;
+	margin: 0;
+}
+.equity-idx-carousel .disclaimer p img {
+	border: none;
+}

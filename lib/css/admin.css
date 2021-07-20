@@ -1,0 +1,186 @@
+/**
+ * Description: CSS Styles for Admin pages
+ */
+
+
+/* # A dividing horizontal rule
+----------- */
+
+hr.div {
+	height: 1px;
+	margin: 10px 0;
+	border: none;
+	background: #ccc;
+}
+
+/* # Fix notice placment on our admin pages
+----------- */
+
+.wrap div.error,
+.wrap div.updated {
+	clear: both;
+}
+
+/* # Plugin activation notices
+----------- */
+#setting-error-tgmpa strong {
+	font-weight: 400;
+}
+#setting-error-tgmpa .dismiss-notice {
+	text-decoration: none;
+}
+
+/* # Equity metabox styles
+----------- */
+
+.equity-metaboxes {
+	box-sizing: border-box;
+	max-width: 690px;
+	padding-bottom: 20px;
+}
+
+.equity-metaboxes .top-buttons {
+	float: right;
+}
+
+.equity-metaboxes .top-buttons input {
+	margin-left: 10px;
+}
+
+.equity-metaboxes .bottom-buttons {
+	text-align: right;
+}
+
+.equity-metaboxes .bottom-buttons input {
+	margin-left: 10px;
+}
+
+.equity-metaboxes .metabox-holder {
+	clear: both;
+}
+
+.equity-metaboxes .inside {
+	padding: 0 10px;
+}
+
+.postbox-container {
+	width: 100%;
+}
+
+.postbox .inside > p:last-child {
+	margin: 1em 0 !important;
+}
+
+.equity-metaboxes fieldset {
+	margin-top: 1em;
+}
+
+.equity-metaboxes legend {
+	line-height: 140%;
+}
+
+
+/* # Layout options styles
+----------- */
+
+.equity-layout-selector input {
+	display: none;
+	text-align: center;
+}
+
+.equity-layout-selector .default-layout {
+	display: inline-block;
+}
+
+.equity-layout-selector label.box {
+	border: 3px solid transparent;
+	display: block;
+	float: left;
+	margin: 10px 10px 10px 0;
+	text-align: center;
+	max-width: 200px;
+	max-height: 150px;
+}
+
+.equity-layout-selector label.box img {
+	max-width: 200px;
+	pointer-events: none;
+}
+
+.equity-layout-selector label.box:hover {
+	border: 3px solid #ddd;
+}
+
+.equity-layout-selector label.box.selected {
+	border: 3px solid #c2252c;
+}
+
+
+/* ## Inpost layout box */
+
+#equity_inpost_layout_box .inside input#default-layout {
+	margin-left: 5px;
+}
+
+#equity_inpost_layout_box .equity-layout-selector {
+	padding-top: 5px;
+}
+
+
+/* ## Layout selector, no JS */
+
+.ie8 .equity-layout-selector input,
+.no-js .equity-layout-selector input {
+	display: inline;
+}
+
+.ie8 .equity-layout-selector label.box img,
+.ie8 .equity-layout-selector label.box img:hover,
+.ie8 .equity-layout-selector label.box.selected img,
+.no-js .equity-layout-selector label.box img,
+.no-js .equity-layout-selector label.box img:hover,
+.no-js .equity-layout-selector label.box.selected img {
+	border: 3px solid transparent;
+}
+
+
+/* # Widgets
+----------- */
+
+.equity-widget-column {
+	float: left;
+	width: 49%;
+}
+
+.equity-widget-column-right {
+	margin-left: 2%;
+}
+
+.equity-widget-column-box {
+	margin-top: 10px;
+	padding: 10px 10px 0;
+	border: 1px solid #ddd;
+	background: #f1f1f1;
+}
+
+.equity-widget-column-box-top {
+	margin-top: 0;
+}
+
+.equity-pagechecklist {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.equity-image-size-selector {
+	max-width: 205px;
+}
+
+.no-js .hide-if-no-js {
+	display: none;
+}
+
+.widget-control-actions {
+	clear: both;
+}

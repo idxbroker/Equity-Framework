@@ -1,0 +1,10 @@
+/**
+ * Theme Name: Equity Framework Print Stylesheet
+ */
+.top-header,
+header .widget-area,
+nav.nav-main,
+aside.sidebar-primary,
+.footer-widgets {
+	display: none;
+}
