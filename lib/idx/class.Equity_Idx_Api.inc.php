@@ -49,7 +49,7 @@ class Equity_Idx_Api {
 			if ( isset( $custom_equity_domain['equity_idx_domain'] ) ) {
 				$domain = $custom_equity_domain['equity_idx_domain'];
 			} elseif ( has_filter( 'equity_idx_api_domain' ) ) {
-				$domain = apply_filters( 'equity_idx_api_domain', $domain );
+				$domain = apply_filters( 'equity_idx_api_domain', $domain, null );
 			}
 
 			$headers = array_merge( $headers,
@@ -64,10 +64,10 @@ class Equity_Idx_Api {
 			'https://api.idxbroker.com/' . $level . '/' . $method,
 			array(
 				'method' => $http_method,
-				'timeout' => apply_filters( 'http_request_timeout', 180 ),
-				'redirection' => apply_filters( 'http_request_redirection_count', 5 ),
-				'httpversion' => apply_filters( 'http_request_version', '1.1' ),
-				'user-agent' => apply_filters( 'http_headers_useragent', 'WordPress/' . $wp_version . '; ' . get_bloginfo( 'url' ) ),
+				'timeout' => apply_filters( 'http_request_timeout', 180, null ),
+				'redirection' => apply_filters( 'http_request_redirection_count', 5, null ),
+				'httpversion' => apply_filters( 'http_request_version', '1.1', null ),
+				'user-agent' => apply_filters( 'http_headers_useragent', 'WordPress/' . $wp_version . '; ' . get_bloginfo( 'url' ), null ),
 				'blocking' => true,
 				'headers' => $headers,
 				'cookies' => array(),
